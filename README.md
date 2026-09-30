@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Junior%20Backend%20roles-C00000?style=for-the-badge&logo=briefcase&logoColor=white" />
-  <img src="https://img.shields.io/badge/English-B1-111111?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-B2-111111?style=for-the-badge&logo=googletranslate&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=IngGMunoz&label=Profile%20Views&color=C00000&style=for-the-badge" />
 </p>
 
@@ -181,7 +181,7 @@ Web simulator that estimates savings from solar panels: layered architecture, JS
 | 🔐 ISO 27001: Information Security | HackerMentor | 2026 |
 | 📋 Project Management Specialist | Cia.Education | 2026 |
 | 🐍 Python Essentials | Cisco Networking Academy | 2025 |
-| 🇨🇦 English B1 | MIILA (Canada) | 2025 |
+| 🇨🇦 English B2 | Alianza Canadiense | 2026 |
 | 🖥️ Computer Maintenance | Universidad de Barranquilla | 2025 |
 | 📊 Basic Data Analysis | MinTIC | 2024 |
 
@@ -191,7 +191,7 @@ Web simulator that estimates savings from solar panels: layered architecture, JS
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spanish-Native-C00000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/English-B1%20Certified-111111?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-B2%20Certified-111111?style=for-the-badge&logo=googletranslate&logoColor=white" />
 </p>
 
 ---
