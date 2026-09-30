@@ -179,7 +179,7 @@ Web simulator that estimates savings from solar panels: layered architecture, JS
 | Certification | Issuer | Year |
 | --- | --- | --- |
 | 🔐 ISO 27001: Information Security | HackerMentor | 2026 |
-| 📋 Project Management Specialist | — | 2026 |
+| 📋 Project Management Specialist | Cia.Education | 2026 |
 | 🐍 Python Essentials | Cisco Networking Academy | 2025 |
 | 🇨🇦 English B1 | MIILA (Canada) | 2025 |
 | 🖥️ Computer Maintenance | Universidad de Barranquilla | 2025 |
