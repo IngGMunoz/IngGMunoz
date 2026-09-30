@@ -1,17 +1,17 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C00000,100:111111&height=220&section=header&text=Georgy%20Daniel%20Muñoz%20Utria&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Backend%20Developer%20%7C%20Data%20Analysis&descAlignY=58&descSize=17"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C00000,100:111111&height=220&section=header&text=Georgy%20Daniel%20Muñoz%20Utria&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Systems%20Engineering&descAlignY=58&descSize=17"/>
 </p>
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=C00000&center=true&vCenter=true&width=850&lines=Systems+Engineering+Student;Front-end+%26+Back-end+Developer;Data+Analysis+Enthusiast;Digital+Solutions+Designer;Available+for+Professional+Internship+2026;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=C00000&center=true&vCenter=true&width=850&lines=Back-end+Developer;REST+APIs+%C2%B7+Databases+%C2%B7+Automation;Systems+Engineering;Open+to+Junior+Backend+roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/English-B1-C00000?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Internship-Available%202026-111111?style=for-the-badge&logo=briefcase&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=unknownusa-ai&label=Profile%20Views&color=C00000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Junior%20Backend%20roles-C00000?style=for-the-badge&logo=briefcase&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-B1-111111?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=IngGMunoz&label=Profile%20Views&color=C00000&style=for-the-badge" />
 </p>
 
 ---
@@ -20,40 +20,192 @@
 
 <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Hi! I'm **Georgy Daniel Muñoz Utria**, a **Systems Engineering Student**.
+Hi! I'm **Georgy Daniel Muñoz Utria**, a **Systems Engineer** and **backend developer**.
 
-I have knowledge in **front-end development**, **back-end development**, **mobile development**, **data analysis**, and **digital solution design**. I enjoy building technological solutions that solve real problems and generate value in academic, business, and social environments.
+For **more than 2 years** I have been building and maintaining a **Django + React** web system for a company in the automotive sector, and I currently work on **data automation and auditing** in the public sector. I'm looking for a **junior backend developer** role where I can contribute to **REST APIs, databases and process automation**.
 
-I also participate as a **Junior Researcher** in the Innovation Research Group at Universidad Libre, contributing to technological prototypes focused on real business and social problems.
-
-- 💻 Front-end & Back-end Developer
-- 📱 Mobile Application Development
-- ⚙️ Backend and API Development
-- 🗄️ Database Design & Management
-- 📊 Data Analysis & Visualization
-- 🔬 Technological Innovation Researcher
-- 🐳 Docker & Containerized Development
-- 🔐 Information Security & ISO 27001
-- 🎨 Digital Solutions Designer
-- 🚀 Available for Professional Internship · **2026**
-- 🤝 Teamwork, communication, autonomy, and adaptability
-- 📚 Always learning new technologies
+- ⚙️ REST API development (Django REST Framework, Flask, FastAPI)
+- 🗄️ Database modeling and administration (MySQL, PostgreSQL, SQL Server)
+- 🐍 Process automation with Python (pandas, openpyxl)
+- 🔎 Data auditing and validation with SQL
+- 🐳 Docker, Docker Compose and cloud deployment
+- 🔐 Information security (ISO 27001)
+- 📝 Technical documentation and reporting
+- 🤝 Agile teamwork, communication and autonomy
 
 <br clear="right"/>
 
 ---
 
+## 💼 Experience
+
+### 🏛️ Systems Engineering Intern
+**Gobernación del Atlántico – Departmental Secretariat of Education** · Barranquilla · Aug 2026 – Present
+
+- Automate operational processes with **Python scripts (pandas, openpyxl)**, reducing manual work in the review of institutional information.
+- Audit and validate large volumes of data by cross-checking class records against the official **SIMAT** database with **SQL**, ensuring integrity and traceability.
+- Support database administration and monitor platform performance.
+- Provide technical support to users and write technical documentation and reports for decision-making.
+
+### 🔧 Software Developer (Freelance)
+**Automotive sector company (confidential)** · Apr 2024 – Present
+
+- Develop and maintain a web-based administrative system for automotive workshops that manages **customers, inventory and work orders**.
+- Built the backend with **Django and Django REST Framework**, with a REST API that handles the business's transactional logic.
+- Built the frontend with **React, Vite and Tailwind CSS**, prioritizing usability for workshop staff.
+
+`Django` `Django REST Framework` `React` `Vite` `Tailwind CSS`
+
+### 🔬 Junior Researcher
+**Universidad Libre – Innovation Research Group** · Jul 2025 – Present
+
+- Design and develop technological prototypes that solve real business and social problems.
+- Collaborate in multidisciplinary teams and manage technical documentation and research reports.
+
+---
+
+## 🚀 Featured Projects
+
+### 🐾 Adopt Me Now – Pet Adoption Platform
+**Full-stack Developer & Designer · 2025 – 2026** · [🔗 Live demo](https://adopt-me-now.up.railway.app) · [📂 Repository](https://github.com/IngGMunoz/Adopt-Me-Now)
+
+Web platform that connects animal rescue foundations with people who want to adopt. Foundations publish pets and review requests from their own panel; users browse the catalog, send adoption requests and follow everything from their account.
+
+- **Admin panel** to publish and feature pets, approve adoption requests and user submissions, and manage users and administrators.
+- **User accounts** with an activity history, adoption requests and pet submissions.
+- **Catalog** with instant search and filters by species, size and location.
+- **Security:** CSRF protection, login rate limiting, immediate session revocation and hashed passwords.
+- **Email notifications** (SMTP) and a **REST API**.
+- **68 automated tests** with pytest and GitHub Actions CI; deployed with **Docker, Gunicorn and MySQL** on Railway.
+
+`Python` `Flask` `SQLAlchemy` `MySQL` `JavaScript` `Docker` `Gunicorn` `Pytest` `GitHub Actions` `Railway`
+
+---
+
+### 🚗 FlexiDrive – Mobile Vehicle Rental App
+**Academic Project · Backend & Frontend Developer · Feb 2026 – Present** · [📂 Repository](https://github.com/IngGMunoz/FlexiDrive)
+
+Hourly vehicle rental mobile app. Backend in **Django** (REST API, booking and reporting logic, integration with PostgreSQL and MongoDB) and mobile frontend in **Flutter/Dart**.
+
+`Flutter` `Dart` `Django` `PostgreSQL` `MongoDB` `Docker`
+
+---
+
+### ☀️ SolarSim – Solar Panel Savings Simulator
+**Academic Project · Full-stack Developer · Mar 2025 – Sep 2026** · [📂 Repository](https://github.com/IngGMunoz/solar-sim)
+
+Web simulator that estimates savings from solar panels: layered architecture, JSON API, PDF reports, email notifications (PHPMailer), statistics with Chart.js and deployment on web hosting.
+
+`PHP` `MySQL` `JavaScript` `Chart.js` `PHPMailer`
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,dart" />
+  <br>
+  <img src="https://img.shields.io/badge/SQL-Main%20Language-C00000?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p align="center"><sub>Basic knowledge</sub></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,java,c,cpp,cs,r" />
+</p>
+
+### ⚙️ Backend & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,pytest" />
+  <br>
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-API%20Development-C00000?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+### 🎨 Frontend & Mobile
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,bootstrap" />
+  <br>
+  <img src="https://img.shields.io/badge/React%20Native-Mobile%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" />
+  <br>
+  <img src="https://img.shields.io/badge/SQL%20Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20DB-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+### 🧰 Tools & Environments
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,pycharm,androidstudio,figma" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker%20Compose-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/RStudio-Data%20Analysis-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-Notebooks-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux%20Mint-OS-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Server%20Core-OS-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-Virtualization-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-IDE-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+</p>
+
+---
+
 ## 🎓 Education
 
-### 🎓 Systems Engineering
+### Systems Engineering
+**Universidad Libre – Barranquilla** · 2023 – 2026 (in progress)
 
-**Universidad Libre – Barranquilla**  
-2023 – 2026 · In progress
+### Academic High School Diploma
+**I.E.D. Marco Fidel Suárez** · 2017 – 2022
 
-### 🎓 Academic High School Diploma
+---
 
-**I.E.D. Marco Fidel Suárez**  
-2017 – 2022
+## 📚 Certifications & Courses
+
+| Certification | Issuer | Year |
+| --- | --- | --- |
+| 🔐 ISO 27001: Information Security | HackerMentor | 2026 |
+| 📋 Project Management Specialist | — | 2026 |
+| 🐍 Python Essentials | Cisco Networking Academy | 2025 |
+| 🇨🇦 English B1 | MIILA (Canada) | 2025 |
+| 🖥️ Computer Maintenance | Universidad de Barranquilla | 2025 |
+| 📊 Basic Data Analysis | MinTIC | 2024 |
+
+---
+
+## 🌎 Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spanish-Native-C00000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-B1%20Certified-111111?style=for-the-badge&logo=googletranslate&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IngGMunoz&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngGMunoz&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IngGMunoz&theme=dark&hide_border=true&ring=C00000&fire=C00000&currStreakLabel=C00000" alt="GitHub Streak"/>
+</p>
 
 ---
 
@@ -63,251 +215,13 @@ I also participate as a **Junior Researcher** in the Innovation Research Group a
   <a href="mailto:daniellutriam@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-C00000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <a href="https://github.com/unknownusa-ai">
+  <a href="https://github.com/IngGMunoz">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <a href="https://www.linkedin.com/in/georgy-daniel-muñoz-utria-084a54303">
+  <a href="https://www.linkedin.com/in/georgy-daniel-muñoz-utria">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,c,cpp,cs,python,dart,js,ts,r" />
-  <br>
-  <img src="https://img.shields.io/badge/SQL-Database%20Language-C00000?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🎨 Frontend & Mobile Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,flutter,tailwind,bootstrap" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React%20Native-Mobile%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
-
----
-
-### ⚙️ Backend & Frameworks
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,pytest" />
-  <br>
-  <img src="https://img.shields.io/badge/Django%20REST%20Framework-API%20Development-C00000?style=for-the-badge&logo=django&logoColor=white" />
-</p>
-
----
-
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle%20DB-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
----
-
-### 🧰 Tools & Software
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,vscode,pycharm,androidstudio,figma,notion" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker%20Compose-Container%20Management-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/RStudio-Data%20Analysis-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-Data%20Analysis-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NetBeans-IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-IDE-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Teams-Collaboration-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zoom-Meetings-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
-</p>
-
----
-
-## 🚀 Projects
-
-### 🔬 Innovation Research Group
-
-**Universidad Libre · Junior Researcher · 2025 – Present**
-
-Design and development of technological prototypes focused on solving real business and social problems.
-
-- Technological prototype development
-- Multidisciplinary collaboration
-- Technical documentation
-- Research result documentation
-- Technological innovation
-
----
-
-### 🚗 FlexiDrive – Mobile Vehicle Rental Platform
-
-**Academic Project · Front-end & Back-end Developer · 2026 – Present**
-
-Mobile application for vehicle rental management developed with **Flutter/Dart**, including user, reservation, and reporting modules.
-
-Backend developed with **Django and Docker**, using **PostgreSQL, MongoDB and Git/GitHub** for development, backend, frontend, and testing.
-
-**Technologies:**
-
-`Flutter` `Dart` `Django` `Docker` `PostgreSQL` `MongoDB` `Git` `GitHub`
-
----
-
-### 🔧 La Hormiga – Automotive Workshop Management System
-
-**Academic Project · Software Developer · 2025 – Present**
-
-Web-based administrative system for automotive workshops focused on usability and business logic.
-
-Main functionalities include:
-
-- 👥 Customer management
-- 📦 Inventory management
-- 🔧 Work order management
-- 🔄 Transactional business logic
-- 🔌 REST API development
-- 🎨 Modern web interface
-
-**Technologies:**
-
-`Django` `Django REST Framework` `React` `Vite` `Tailwind CSS`
-
----
-
-### 🐾 Adopt Me Now – Pet Adoption Platform
-
-**Academic Project · Developer & Designer · 2025**
-
-Non-profit platform designed for pet adoption through profiles, forms, and adoption requests.
-
-Developed collaboratively using Python for application logic and Docker for containerization.
-
-**Technologies:**
-
-`HTML` `CSS` `JavaScript` `Python` `Docker`
-
----
-
-## 📚 Courses & Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ISO%2027001-Information%20Security-C00000?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python%20Essentials-Cisco%20Networking%20Academy-C00000?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Basic%20Data%20Analysis-MinTIC-111111?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/English-B1%20Certification-C00000?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Maintenance-Technical%20Training-111111?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
-
-### 🔐 ISO 27001 – Hacker Mentor
-
-Training focused on **information security, risk management, and ISO/IEC 27001 fundamentals**, oriented toward strengthening information asset protection.
-
-### 🐍 Python Essentials – Cisco Networking Academy
-
-Fundamentals of Python programming, control structures, functions, data handling, and applied programming logic.
-
-### 📊 Basic Data Analysis – MinTIC
-
-Training in data collection, cleaning, organization, and visualization using statistical tools and Python.
-
-### 🇨🇦 B1 English Certification – MIILA (Canada)
-
-Academic and professional English communication, including reading, technical writing, and conversation.
-
-### 🖥️ Computer Maintenance – Universidad de Barranquilla
-
-Training in preventive and corrective computer maintenance, operating system installation, hardware configuration, and technical troubleshooting.
-
----
-
-## 🌎 Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/English-B1%20Certified-C00000?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reading-90%25-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Listening-80%25-C00000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Speaking-85%25-111111?style=for-the-badge" />
-</p>
-
----
-
-## 🎯 Professional Focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Software%20Development-C00000?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Development-111111?style=for-the-badge&logo=webflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mobile%20Development-C00000?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database%20Management-111111?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analysis-C00000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Technological%20Research-111111?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Information%20Security-C00000?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Development-111111?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
----
-
-## 🤝 Soft Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Teamwork-Results%20Oriented-C00000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Communication-Technical%20Ideas-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Time%20Management-Punctuality-C00000?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Autonomy-Commitment-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Thinking-Analytical%20%26%20Creative-C00000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Adaptability-Dynamic-111111?style=for-the-badge" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unknownusa-ai&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknownusa-ai&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=unknownusa-ai&theme=dark&hide_border=true&ring=C00000&fire=C00000&currStreakLabel=C00000" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unknownusa-ai&theme=github" alt="GitHub Activity Graph"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:C00000&height=120&section=footer"/>
